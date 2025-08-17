@@ -1,1 +1,1 @@
-# SCT_WD_3-alt
+# SCT_WD_3_alt
